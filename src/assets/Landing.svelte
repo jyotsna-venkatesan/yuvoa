@@ -22,7 +22,7 @@
             </h3>
 
             <!-- hero paragraph text -->
-            <div class="max-w-sm">
+            <div class="max-w-sm pt-4">
                 <p class="text-light text-right text-sm">
                   Teamwork shouldn't be this hard—especially for students. Yuvoa makes it easy to manage projects, stay in sync, and actually enjoy working together.
                 </p>
@@ -119,8 +119,37 @@
           </div>
 
           <!-- second blue blur image -->
-          <img class="w-full h-auto" src="./second-blue-blur.png" alt="blue blurry wave">
+          <img class="w-full h-auto mb-0" src="./second-blue-blur.png" alt="blue blurry wave">
 
+      </div>
+  </section>
+
+
+<!-- cta section -->
+  <section class="w-full h-full bg-dark mt-0">
+      <div class="max-w-7xl px-4 md:px-8 pt-4 mx-auto">
+          <!-- cta section heading -->
+          <h1 class="text-light text-4xl sm:text-6xl md:text-7xl lg:text-9xl font-extrabold text-left mb-12">Sign in to get started!</h1>
+
+          <!-- cta button and text -->
+          <div class="md:ml-auto sm:w-full md:w-3/5 lg:w-3/5 grid grid-cols-1 md:grid-cols-2 gap-y-4">
+
+              <!-- button side -->
+              <div class="order-1">
+                  <button class="bg-blued rounded-lg text-light text-sm py-4 px-6">Go to Sign In Page →</button>
+              </div>
+
+              <!-- text side -->
+              <div class="order-2">
+                  <p class="text-sm text-light">You’ve done enough copy-pasting into group chats.  Sign in to Yuvoa and manage your team projects the smarter way.</p>
+              </div>
+          </div>
+  </section>
+
+<!-- footer -->
+  <section class="w-full h-full bg-dark">
+      <div class="px-4 md:px-8 pt-16 pb-4 mx-auto">
+          <p class="text-sm text-light">Yuvoa 2025 by Jyotsna</p>
       </div>
   </section>
 
